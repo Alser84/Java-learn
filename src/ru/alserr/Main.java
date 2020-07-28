@@ -28,6 +28,7 @@ public class Main {
             return true;
         } else System.out.println(false);
             return false;
+        //return sum <= 20 && sum >= 20
     }
     //Задание 3
     private static void positiveOrNeative(int a){
