@@ -35,6 +35,7 @@ public class Main {
         if (a >= 0 ){
             System.out.println("Положительное число");
         }else System.out.println("Отрицательное число");
+        //return a >=0;
     }
     //Задание 4
     private static void greeting(String name){
