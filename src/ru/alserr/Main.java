@@ -83,7 +83,7 @@ public class Main {
         }
         return arr5;
     }
-    //Зaдание 6
+    //Задание 6
     private static boolean summator(int[] arr6) {
         int sumLeft = 0;
         int sumRight = 0;
